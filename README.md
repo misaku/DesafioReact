@@ -54,7 +54,7 @@ Critérios de aceite:
 
 Diferenciais:
 
-- Validação do formuário será considerado um diferencial.
+- Validação do formulário será considerado um diferencial.
 - Criação de testes também é um diferencial.
 
 
